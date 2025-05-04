@@ -1,5 +1,5 @@
 # NBA Points Regression Analysis
-This project explores team-level NBA game statistics to predict total points scores using multiple linear regression.
+This project explores team-level NBA game statistics to predict total points scored using multiple linear regression.
 
 ## Files Included
 - `EDA_Model_Building.pdf`: Full exploratory data analysis, model building, and model section process.
