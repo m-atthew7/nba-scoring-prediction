@@ -1,2 +1,2 @@
 # nba-scoring-prediction
-WLS regression analysis to predict NBA team scoring using backwards stepwise model selection
+Exploratory data analysis and multiple linear regression modeling to predict NBA team points based on game stats
