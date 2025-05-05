@@ -14,8 +14,10 @@ This project explores team-level NBA game statistics to predict total points sco
 - Weighted Least Squares (WLS) for correction
 
 ## Tools
-- R, RMarkdown
-- `tidyverse 1`, `car`, `kableExtra`, `MASS`, `knitr`
+- **Languages:** R, RMarkdown
+- **Data IMport & Manipulation:** `readxl`, `tidyverse`
+- **Modeling & Diagnostics:** `car`, `MASS`
+- **Table & Report Formatting:** `knitr`, `kableExtra`
 
 ## Author
 Matthew dick
