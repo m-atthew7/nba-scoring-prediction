@@ -15,7 +15,7 @@ This project explores team-level NBA game statistics to predict total points sco
 
 ## Tools
 - **Languages:** R, RMarkdown
-- **Data IMport & Manipulation:** `readxl`, `tidyverse`
+- **Data Import & Manipulation:** `readxl`, `tidyverse`
 - **Modeling & Diagnostics:** `car`, `MASS`
 - **Table & Report Formatting:** `knitr`, `kableExtra`
 
