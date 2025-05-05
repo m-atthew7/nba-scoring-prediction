@@ -21,5 +21,6 @@ This project explores team-level NBA game statistics to predict total points sco
 
 ## Author
 Matthew Dick
+
 March 2025
 
