@@ -8,7 +8,7 @@ This project explores team-level NBA game statistics to predict total points sco
 
 ## Methods
 - Data preprocessing and EDA
-- Feature selectuon and mulitcollinearity checks
+- Feature selection and mulitcollinearity checks
 - Model refinement using variable selection and diagnostics
 - Breusch-Pagan test for heteroscedasticity
 - Weighted Least Squares (WLS) for correction
