@@ -20,6 +20,6 @@ This project explores team-level NBA game statistics to predict total points sco
 - **Table & Report Formatting:** `knitr`, `kableExtra`
 
 ## Author
-Matthew dick
+Matthew Dick
 March 2025
 
