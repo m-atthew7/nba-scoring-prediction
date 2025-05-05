@@ -15,7 +15,7 @@ This project explores team-level NBA game statistics to predict total points sco
 
 ## Tools
 - R, RMarkdown
-- `tidyverse 1, `car`, `kableExtra`, `MASS`, `knitr`
+- `tidyverse 1`, `car`, `kableExtra`, `MASS`, `knitr`
 
 ## Author
 Matthew dick
