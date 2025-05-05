@@ -6,4 +6,18 @@ This project explores team-level NBA game statistics to predict total points sco
 - `Final_Report_No_Code.pdf`: Clean final report with interpretation and model summary (no code).
 - `Final_Report_With_Code.pdf`: Full reproducible version of the report including all R code.
 
+## Methods
+- Data preprocessing and EDA
+- Feature selectuon and mulitcollinearity checks
+- Model refinement using variable selection and diagnostics
+- Breusch-Pagan test for heteroscedasticity
+- Weighted Least Squares (WLS) for correction
+
+## Tools
+- R, RMarkdown
+- `tidyverse 1, `car`, `kableExtra`, `MASS`, `knitr`
+
+## Author
+Matthew dick
+March 2025
 
